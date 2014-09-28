@@ -1,9 +1,9 @@
 package Modulo4;
-
 /**
  *
  * @author aunermedina
  */
+
 public class Shirt {
     public int shirtID;
     public String description = "-description is required-"; //default
